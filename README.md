@@ -20,3 +20,7 @@ This project automatically counts the number of sunflowers in an image using com
 - OpenCV : Best Library for working with images
 - Numpy : Best Library for working with arrays in python
 - MatPlotLib : Library for showing the charts in python
+
+## 🪪 License
+
+This project is licensed under the MIT License.
